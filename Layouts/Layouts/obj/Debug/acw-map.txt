@@ -1,0 +1,8 @@
+Layouts.EmployeeAdapter, Layouts;md5f559ac8a09f30ab7a0103f98e0cdce72.EmployeeAdapter
+Layouts.EmployeeAdapter, Layouts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f559ac8a09f30ab7a0103f98e0cdce72.EmployeeAdapter
+Layouts.EmployeeAdapter;md5f559ac8a09f30ab7a0103f98e0cdce72.EmployeeAdapter
+layouts.EmployeeAdapter;md5f559ac8a09f30ab7a0103f98e0cdce72.EmployeeAdapter
+Layouts.MainActivity, Layouts;md5f559ac8a09f30ab7a0103f98e0cdce72.MainActivity
+Layouts.MainActivity, Layouts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f559ac8a09f30ab7a0103f98e0cdce72.MainActivity
+Layouts.MainActivity;md5f559ac8a09f30ab7a0103f98e0cdce72.MainActivity
+layouts.MainActivity;md5f559ac8a09f30ab7a0103f98e0cdce72.MainActivity

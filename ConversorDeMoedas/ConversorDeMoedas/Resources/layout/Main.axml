@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:paddingLeft="16dp"
+    p1:paddingRight="16dp"
+    p1:background="@drawable/fundo">
+    <TextView
+        p1:text="Conversor de Moedas"
+        p1:layout_width="match_parent"
+        p1:layout_height="80dp"
+        p1:textSize="30dp"
+        p1:textColor="#000FFF"
+        p1:gravity="center_vertical" />
+    <TextView
+        p1:text="Dólares"
+        p1:layout_width="80dp"
+        p1:layout_height="50dp"
+        p1:textColor="#000"
+        p1:textSize="18dp"
+        p1:layout_marginTop="80dp"
+        p1:layout_marginRight="80dp"
+        p1:gravity="center_vertical" />
+    <EditText
+        p1:text="0"
+        p1:numeric="integer"
+        p1:inputType="number"
+        p1:id="@+id/txtdolares"
+        p1:textColor="#000"
+        p1:textSize="18dp"
+        p1:layout_width="130dp"
+        p1:layout_height="wrap_content"
+        p1:layout_marginTop="80dp"
+        p1:layout_alignParentRight="true"
+        p1:gravity="center" />
+    <TextView
+        p1:text="Pesos"
+        p1:layout_width="80dp"
+        p1:layout_height="50dp"
+        p1:textColor="#000"
+        p1:textSize="18dp"
+        p1:layout_marginTop="180dp"
+        p1:layout_marginRight="80dp"
+        p1:gravity="center" />
+    <EditText
+        p1:text="0"
+        p1:id="@+id/txtpeso"
+        p1:layout_width="130dp"
+        p1:textColor="#000"
+        p1:textSize="18dp"
+        p1:layout_height="wrap_content"
+        p1:layout_marginTop="180dp"
+        p1:layout_alignParentRight="true"
+        p1:gravity="center" />
+    <Button
+        p1:text="Converter"
+        p1:id="@+id/btnconvertir"
+        p1:background="#ffff1111"
+        p1:layout_width="130dp"
+        p1:textSize="18dp"
+        p1:layout_height="60dp"
+        p1:layout_marginTop="280dp"
+        p1:layout_alignParentRight="true"
+        p1:gravity="center" />
+</RelativeLayout>
